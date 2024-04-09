@@ -1,0 +1,8 @@
+**/.vscode
+**/.devcontainer
+**/build
+**TODO
+
+**/.settings
+**/Debug
+*.launch
